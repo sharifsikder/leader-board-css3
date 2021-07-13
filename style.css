@@ -63,16 +63,8 @@ header{
 
 .menu-section ul {
     display: flex;
-  
     align-items: center;
-    justify-content: end;
-}
-.menu-section ul li{
-  
-    list-style: none;
-    
-
-    margin-right: 31px;
+    justify-content: flex-end;
 }
 .ss{
     margin-right: 0 !important;
